@@ -1,0 +1,36 @@
+.card-wrap {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 300px;
+  border: solid 1px #e1e1e1;
+  margin-bottom: 10px;
+}
+
+.card-wrap:hover {
+  border: solid 1px #ff0000;
+  cursor: pointer;
+}
+
+.date-wrap span {
+  border-bottom: solid 3px #ff0000;
+}
+
+.card-image {
+  width: fit-content;
+}
+
+.card-main-content {
+  padding: 10px;
+}
+
+.card-footer a {
+  font-weight: bold;
+  color: #006eff;
+}
+
+.card-footer a:hover {
+  color: #4893f5;
+}
+
+.subheader {
+  font-size: 20px;
+}
